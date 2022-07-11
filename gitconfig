@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anggerprayugo251@gmail.com
+	name = Angger Prayugo
